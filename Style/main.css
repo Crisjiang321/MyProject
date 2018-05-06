@@ -1,0 +1,49 @@
+﻿body{
+    background-color:antiquewhite;
+}
+.navbar-brand {
+    font-size: 50px;
+    font-weight: bold;
+    color: #303030;
+}
+.navbar {
+    /*background-color: #DCDCDC;*/
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
+
+.navbar-brand:hover {
+    color: #303030;
+}
+
+.navbar-nav {
+    font-size: 20px;
+}
+
+a {
+    color: #303030;
+}
+
+.navbar-nav > li > a:hover {
+    background-color: transparent;
+    color: white;
+}
+.fonter-style {
+    font-size:20px;
+}
+.font-1 span {
+    font-size: 80px;
+    color: #4D4D4D;
+}
+.font-2 {
+    font-size: 46px;
+    color: #4D4D4D;
+}
+.font-3 {
+    font-size: 20px;
+    font-weight: bold;
+    color: #4D4D4D;
+}
+.font-4 {
+    color: #4D4D4D;
+}
